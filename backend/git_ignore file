@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.log
+logs/
+npm-debug.log*
+# Uploaded files (keep the folder itself)
+uploads/*
+!uploads/.gitkeep
+.DS_Store
